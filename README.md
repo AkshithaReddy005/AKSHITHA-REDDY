@@ -6,10 +6,7 @@
 <!-- CUSTOM PROFILE CARD LAYOUT -->
 <div align="center">
   <img src="https://s5.ezgif.com/tmp/ezgif-551bd00fafde40.gif" width="240" style="border-radius:50%;margin-bottom:10px;" alt="Profile GIF"/>
-  <br/>
-  <img src="https://img.shields.io/badge/-Akshitha%20Reddy-fb5c90?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IT%20Student-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <br/>
+ 
   <div style="margin: 18px 0 18px 0;"></div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=0A0A23&center=true&vCenter=true&width=600&lines=Akshitha+Reddy!" alt="Typing SVG: Akshitha Reddy"/>
   <div style="margin: 22px 0 22px 0;"></div>
