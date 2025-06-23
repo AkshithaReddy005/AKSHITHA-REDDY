@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/IT%20Student-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   <br/>
   <div style="margin: 18px 0 18px 0;"></div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Akshitha+Reddy!" alt="Typing SVG: Akshitha Reddy"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=4fc3f7&center=true&vCenter=true&width=600&lines=Akshitha+Reddy!" alt="Typing SVG: Akshitha Reddy"/>
   <div style="margin: 22px 0 22px 0;"></div>
   <h3 align="center" style="font-size: 1.6rem; font-weight: bold; color: #333;">
   🎓 2nd Year IT Student @ Vasavi College of Engineering | Web Dev + AI Enthusiast
@@ -49,7 +49,7 @@ I’m a passionate <i>developer and learner</i> pursuing <b>Information Technolo
 ## ✨ Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=38&pause=1300&color=000000&center=true&vCenter=true&width=600&lines=Defining+solutions+in+the+syntax+of+life.&shine=true" alt="Typing SVG: Defining solutions in the syntax of life"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=38&pause=1300&color=4fc3f7&center=true&vCenter=true&width=600&lines=Defining+solutions+in+the+syntax+of+life.&shine=true" alt="Typing SVG: Defining solutions in the syntax of life"/>
 </p>
 
 <p align="center">
