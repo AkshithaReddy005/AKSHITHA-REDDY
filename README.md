@@ -5,7 +5,7 @@
 
 <!-- CUSTOM PROFILE CARD LAYOUT -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshithaReddy005/AKSHITHA-REDDY/main/profile.gif" width="300" style="border-radius:50%;margin-bottom:10px;" alt="Profile GIF"/>
+
 
 
   <div style="margin-top:18px;"></div>
@@ -14,8 +14,12 @@
   <img src="https://img.shields.io/badge/IT%20Student-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   <br/>
   <div style="margin: 18px 0 18px 0;"></div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=0A0A23&center=true&vCenter=true&width=600&lines=Akshitha+Reddy!" alt="Typing SVG: Akshitha Reddy"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=0A0A23&center=true&vCenter=true&width=640&lines=Akshitha+Reddy!" alt="Typing SVG: Akshitha Reddy"/>
+
+
   <div style="margin: 22px 0 22px 0;"></div>
+  <img src="https://raw.githubusercontent.com/AkshithaReddy005/AKSHITHA-REDDY/main/profile.gif" width="390" style="border-radius:50%;margin-bottom:10px;" alt="Profile GIF"/>
+
   <h3 align="center" style="font-size: 1.6rem; font-weight: bold; color: #333;">
   🎓 2nd Year IT Student- @ Vasavi College of Engineering 
   </h3>
