@@ -17,9 +17,9 @@
   <h3 align="center" style="font-size: 1.6rem; font-weight: bold; color: #333;">
   🎓 2nd Year IT Student @ Vasavi College of Engineering 
   </h3>
-  <h3 align="center" style="font-size: 1.6rem; font-weight: bold; color: #333;">
+  
 Web Dev and AI Enthusiast
-  </h3>
+  
   
 </div>
 
