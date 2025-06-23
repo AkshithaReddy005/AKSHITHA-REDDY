@@ -48,6 +48,7 @@ I’m a passionate <i>developer and learner</i> pursuing <b>Information Technolo
 🌐 I'm exploring <b>AI & LLMs</b>, contributing to <b>open source</b>, and freelancing in real-world projects.
 
 ---
+## ✨ Philosophy
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=38&pause=1300&color=4fc3f7&center=true&vCenter=true&width=600&lines=Defining+solutions+in+the+syntax+of+life.&shine=true" alt="Typing SVG: Defining solutions in the syntax of life"/>
