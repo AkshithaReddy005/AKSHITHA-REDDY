@@ -68,6 +68,7 @@ const life = (problem) => {
 };
 
 
+
 </div>
 
 ---
