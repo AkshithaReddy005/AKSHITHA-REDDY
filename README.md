@@ -49,8 +49,6 @@ I’m a passionate <i>developer and learner</i> pursuing <b>Information Technolo
 
 ---
 
-## ✨ Philosophy
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=38&pause=1300&color=4fc3f7&center=true&vCenter=true&width=600&lines=Defining+solutions+in+the+syntax+of+life.&shine=true" alt="Typing SVG: Defining solutions in the syntax of life"/>
 </p>
@@ -61,15 +59,12 @@ I’m a passionate <i>developer and learner</i> pursuing <b>Information Technolo
 
 <div align="center">
 
-js
+```js
 // My philosophy
 const life = (problem) => {
-    return solution;
+  return solution;
 };
-
-
-
-</div>
+```
 
 ---
 ## 🛠 Tech Stack
