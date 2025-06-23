@@ -5,7 +5,9 @@
 
 <!-- CUSTOM PROFILE CARD LAYOUT -->
 <div align="center">
-  <img src="https://s5.ezgif.com/tmp/ezgif-551bd00fafde40.gif" width="270" style="border-radius:50%;margin-bottom:10px;" alt="Profile GIF"/>
+  <img src="https://raw.githubusercontent.com/AkshithaReddy005/AKSHITHA-REDDY/main/profile.gif" width="300" style="border-radius:50%;margin-bottom:10px;" alt="Profile GIF"/>
+
+
   <div style="margin-top:18px;"></div>
   <br/>
   <img src="https://img.shields.io/badge/-Akshitha%20Reddy-fb5c90?style=for-the-badge&logo=github&logoColor=white"/>
