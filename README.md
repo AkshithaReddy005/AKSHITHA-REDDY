@@ -15,8 +15,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=0A0A23&center=true&vCenter=true&width=600&lines=Akshitha+Reddy!" alt="Typing SVG: Akshitha Reddy"/>
   <div style="margin: 22px 0 22px 0;"></div>
   <h3 align="center" style="font-size: 1.6rem; font-weight: bold; color: #333;">
-  🎓 2nd Year IT Student @ Vasavi College of Engineering | Web Dev + AI Enthusiast
+  🎓 2nd Year IT Student @ Vasavi College of Engineering 
   </h3>
+  <h3 align="center" style="font-size: 1.6rem; font-weight: bold; color: #333;">
+Web Dev and AI Enthusiast
+  </h3>
+  
 </div>
 
 <p align="center">
